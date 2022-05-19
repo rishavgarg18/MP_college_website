@@ -115,7 +115,7 @@ blockquote {
 	min-height: 100%;
 	position: relative;
 	color: #fff;
-	background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0,0,0,0.3)),url(../images/main3.jpeg) !important;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.3),rgba(0,0,0,0.3)),url(../images/front.jpg) !important;
 	background: no-repeat;
 	background-size: cover;
     background-position: center;
